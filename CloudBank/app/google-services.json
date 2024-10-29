@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "466267765721",
+    "project_id": "cloudbank-40e79",
+    "storage_bucket": "cloudbank-40e79.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466267765721:android:9a77028bbd78781879f7c8",
+        "android_client_info": {
+          "package_name": "com.example.cloudbank"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "466267765721-r3o907j0hrv4qk2tgktdv8d8vjn0t4d8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB518-jTNSJMcZCIZBi7oZw6X08UhcEujI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "466267765721-r3o907j0hrv4qk2tgktdv8d8vjn0t4d8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
